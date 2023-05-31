@@ -1,5 +1,5 @@
 # BI-Project
 
-Shoval Cohen
-Oren Hikani
-Yonatan Cohen
+Shoval Cohen,
+Oren Hikani,
+Yonatan Cohen.
